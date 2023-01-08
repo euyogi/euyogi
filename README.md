@@ -1,4 +1,4 @@
-![IMG_20221224_193221](https://user-images.githubusercontent.com/46427886/209452446-67e24ab4-8f3e-4c21-8a1a-7e24668e93f5.png)
+![IMG_20230108_164109](https://user-images.githubusercontent.com/46427886/211215582-db43cff9-2f82-4f1c-8d58-18874cc93ab8.png)
 
 <!---
 euyogi/euyogi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
