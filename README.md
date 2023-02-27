@@ -12,8 +12,8 @@ Pretendo entrar na UnB - Universidade de Brasília em Agosto de 2023 para Engenh
 ```
 
 <div>
-  <img width="48%" alt="Status do meu github" src="https://github-readme-stats.vercel.app/api?username=euyogi&show_icons=true&theme=transparent&count_private=true">
-  <img width="48%" alt="Línguas mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euyogi&layout=compact&theme=transparent">
+  <img width="49%" alt="Status do meu github" src="https://github-readme-stats.vercel.app/api?username=euyogi&show_icons=true&theme=transparent&count_private=true">
+  <img width="44%" alt="Línguas mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euyogi&layout=compact&theme=transparent">
 </div>
 
 <div style="display: inline_block"><br>
