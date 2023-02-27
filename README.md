@@ -1,7 +1,8 @@
-<!--![IMG_20230108_164109](https://user-images.githubusercontent.com/46427886/211215582-db43cff9-2f82-4f1c-8d58-18874cc93ab8.png)-->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=b03955&height=120&section=header)
 
-![Cabeçalho](https://capsule-render.vercel.app/api?type=waving&color=b03955&height=120&section=header)
+<!-- PORTUGUÊS -->
 
+<!--
 ## ![Saudação](https://readme-typing-svg.herokuapp.com/?color=b03955&size=35&center=true&vCenter=true&width=1000&lines=PT+//+BOM+DIA,+MEU+NOME+É+Yogi+Nam;APAIXONADO+POR+TECNOLOGIA;SEJA+BEM+VINDO!+:%29) <img align="right" alt="emoji" width="30px" src="https://user-images.githubusercontent.com/46427886/221482566-facf410a-61f1-49f8-b127-f7412ac7146b.gif">
 <br>
 
@@ -26,6 +27,9 @@ Aprendendo: Flask
 <div align="center">
   <img alt="Gráfico das minhas contribuições" width="98%" src="https://github-readme-activity-graph.cyclic.app/graph?username=euyogi&custom_title=Grafico%20das%20Contribuicoes%20do%20yogi&bg_color=00000000&color=b03955&line=b03955&title_color=e4bf7a&radius=13">
 </div>
+-->
+
+<!-- INGLÊS -->
 
 ## ![Greetings](https://readme-typing-svg.herokuapp.com/?color=b03955&size=35&center=true&vCenter=true&width=1000&lines=EN+//+MORNING,+MY+NAME+IS+Yogi+Nam;PASSIONATE+ABOUT+TECHNOLOGY;WELCOME!+:%29) <img align="right" alt="emoji" width="30px" src="https://user-images.githubusercontent.com/46427886/221482566-facf410a-61f1-49f8-b127-f7412ac7146b.gif">
 <br>
@@ -71,6 +75,6 @@ Learning: Flask
   <!--<a href="linkdomeulinkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>-->
 </div>
 
-![Jogo da cobrinha](https://github.com/euyogi/euyogi/blob/output/github-contribution-grid-snake.svg)
+![Snake game](https://github.com/euyogi/euyogi/blob/output/github-contribution-grid-snake.svg)
 
-![Rodapé](https://capsule-render.vercel.app/api?type=waving&color=b03955&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=b03955&height=120&section=footer)
