@@ -34,7 +34,7 @@ Aprendendo: Flask
 ## ![Greetings](https://readme-typing-svg.herokuapp.com/?color=b03955&size=35&center=true&vCenter=true&width=1000&lines=EN+//+MORNING,+MY+NAME+IS+Yogi+Nam;PASSIONATE+ABOUT+TECHNOLOGY;WELCOME!+:%29) <img align="right" alt="emoji" width="30px" src="https://user-images.githubusercontent.com/46427886/221482566-facf410a-61f1-49f8-b127-f7412ac7146b.gif">
 <br>
 
-```javascript
+```python
 I'm a brazilian student, 18 years old and starting in the programming world.
 
 I'm completing some courses and learning about some of the many languages to find my area.
