@@ -27,7 +27,7 @@ Learning: Flask
 ```
 
 <div>
-  <img align="left" width="51%" alt="Status do meu github" src="https://github-readme-stats.vercel.app/api?username=euyogi&show_icons=true&theme=transparent&count_private=true">
+  <img align="center" width="51%" alt="Status do meu github" src="https://github-readme-stats.vercel.app/api?username=euyogi&show_icons=true&theme=transparent&count_private=true">
   <img align="right" width="46%" alt="Línguas mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euyogi&layout=compact&theme=transparent">
 </div>
 
@@ -38,7 +38,7 @@ Learning: Flask
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-  <img align="right" alt="Yogi-pic" width="30%" src="https://user-images.githubusercontent.com/46427886/218377101-f832c1a3-6c48-4016-92d2-0d8b6a4fafd5.gif">
+  <img align="right" alt="Yogi-pic" width="20%" src="https://user-images.githubusercontent.com/46427886/218377101-f832c1a3-6c48-4016-92d2-0d8b6a4fafd5.gif">
 </div>
   
   ##
