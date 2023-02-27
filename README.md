@@ -1,6 +1,6 @@
 <!--![IMG_20230108_164109](https://user-images.githubusercontent.com/46427886/211215582-db43cff9-2f82-4f1c-8d58-18874cc93ab8.png)-->
 
-## Bom dia, meu nome é Yogi Nam. <img align="center" alt="emoji" width="30px" src="https://user-images.githubusercontent.com/46427886/221482566-facf410a-61f1-49f8-b127-f7412ac7146b.gif">
+## PT // Bom dia, meu nome é Yogi Nam. <img align="center" alt="emoji" width="30px" src="https://user-images.githubusercontent.com/46427886/221482566-facf410a-61f1-49f8-b127-f7412ac7146b.gif">
 
 ```javascript
 Sou um estudante brasileiro com 18 anos de idade iniciando neste mundo da programação. 
@@ -9,6 +9,19 @@ Estou fazendo alguns cursos e conhecendo sobre diversas linguagens para encontra
 Pretendo entrar na UnB - Universidade de Brasília em Agosto de 2023 para Engenharia de Software.
 
 Aprendendo: Flask
+
+"Ars longa, Vita brevis"
+```
+
+## EN // Bom dia, meu nome é Yogi Nam. <img align="center" alt="emoji" width="30px" src="https://user-images.githubusercontent.com/46427886/221482566-facf410a-61f1-49f8-b127-f7412ac7146b.gif">
+
+```javascript
+I'm a brazilian student, 18 years old and starting in the programming world.
+
+I'm completing some courses and learning about some of the many languages to find my area.
+Planning to go to UnB - Brazilia's University in August 2023 to Software Engineering.
+
+Learning: Flask
 
 "Ars longa, Vita brevis"
 ```
