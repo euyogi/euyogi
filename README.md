@@ -26,9 +26,9 @@ Learning: Flask
 "Ars longa, Vita brevis"
 ```
 
-<div>
-  <img align="center" width="51%" alt="Status do meu github" src="https://github-readme-stats.vercel.app/api?username=euyogi&show_icons=true&theme=transparent&count_private=true">
-  <img align="center" width="46%" alt="Línguas mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euyogi&layout=compact&theme=transparent">
+<div align="center">
+  <img width="51%" alt="Status do meu github" src="https://github-readme-stats.vercel.app/api?username=euyogi&show_icons=true&theme=transparent&count_private=true">
+  <img width="46%" alt="Línguas mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euyogi&layout=compact&theme=transparent">
 </div>
 
 <div style="display: inline_block"><br>
