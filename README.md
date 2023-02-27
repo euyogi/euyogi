@@ -27,7 +27,7 @@ Learning: Flask
 ```
 
 <div>
-  <img align="center" width="51%" alt="Status do meu github" src="https://github-readme-stats.vercel.app/api?username=euyogi&show_icons=true&theme=transparent&count_private=true">
+  <img align="left" width="51%" alt="Status do meu github" src="https://github-readme-stats.vercel.app/api?username=euyogi&show_icons=true&theme=transparent&count_private=true">
   <img align="right" width="46%" alt="Línguas mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euyogi&layout=compact&theme=transparent">
 </div>
 
@@ -38,13 +38,13 @@ Learning: Flask
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-  <img align="right" alt="Yogi-pic" height="150" width="150" src="https://user-images.githubusercontent.com/46427886/218377101-f832c1a3-6c48-4016-92d2-0d8b6a4fafd5.gif">
+  <img align="right" alt="Yogi-pic" width="30%" src="https://user-images.githubusercontent.com/46427886/218377101-f832c1a3-6c48-4016-92d2-0d8b6a4fafd5.gif">
 </div>
   
   ##
  
 <div> 
-  <a href="https://instagram.com/euyogi" target="_blank"><img alt="Instagram: @eu.yogi" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/eu.yogi" target="_blank"><img alt="Instagram: @eu.yogi" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:yogiqhz@gmail.com"><img alt="Email: yogiqhz@gmail.com" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <!--<a href="linkdomeulinkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>-->
 </div>
