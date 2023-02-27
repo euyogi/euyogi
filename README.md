@@ -9,6 +9,8 @@ Estou fazendo alguns cursos e conhecendo sobre diversas linguagens para encontra
 Pretendo entrar na UnB - Universidade de Brasília em Agosto de 2023 para Engenharia de Software.
 
 Aprendendo: Flask
+
+"Ars longa, Vita brevis"
 ```
 
 <div>
