@@ -37,7 +37,7 @@ Learning: Flask
 </div>
 
 <div align="center">
-  <img alt="Gráfico das minhas contribuições" width="97%" src="https://github-readme-activity-graph.cyclic.app/graph?username=euyogi&theme=transparent">
+  <img alt="Gráfico das minhas contribuições" width="99%" src="https://github-readme-activity-graph.cyclic.app/graph?username=euyogi&radius=10">
 </div>
 
 ##
