@@ -77,4 +77,4 @@ Learning: Flask
 
 ![Snake game](https://github.com/euyogi/euyogi/blob/output/github-contribution-grid-snake.svg)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=b03955&height=120&section=footer)
+<img alt="Footer" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=b03955&height=120&section=footer">
