@@ -32,8 +32,8 @@ Learning: Flask
 ##
 
 <div align="center">
-  <img width="51%" alt="Status do meu github" src="https://github-readme-stats.vercel.app/api?username=euyogi&show_icons=true&theme=transparent&count_private=true">
-  <img width="46%" alt="Línguas mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euyogi&layout=compact&theme=transparent">
+  <img width="51%" alt="Status do meu github" src="https://github-readme-stats.vercel.app/api?username=euyogi&show_icons=true&theme=dracula&bg_color=00000000&count_private=true">
+  <img width="46%" alt="Línguas mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euyogi&layout=compact&theme=dracula&bg_color=00000000">
 </div>
 
 <div align="center">
