@@ -16,6 +16,17 @@ Aprendendo: Flask
 "Ars longa, Vita brevis"
 ```
 
+##
+
+<div align="center">
+  <img width="51%" alt="Status do meu github" src="https://github-readme-stats.vercel.app/api?username=euyogi&show_icons=true&theme=onedark&bg_color=00000000&count_private=true&border_radius=11&include_all_commits=true&border_color=dcdcdc&locale=pt-BR">
+  <img width="46%" alt="Línguas mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euyogi&layout=compact&theme=onedark&bg_color=00000000&border_radius=7&locale=pt-BR">
+</div>
+
+<div align="center">
+  <img alt="Gráfico das minhas contribuições" width="99%" src="https://github-readme-activity-graph.cyclic.app/graph?username=euyogi&custom_title=Grafico%20das%20Contribuicoes%20do%20yogi&bg_color=00000000&color=b03955&line=b03955&title_color=e4bf7a">
+</div>
+
 ## ![Greetings](https://readme-typing-svg.herokuapp.com/?color=b03955&size=35&center=true&vCenter=true&width=1000&lines=EN+//+MORNING,+MY+NAME+IS+Yogi+Nam;PASSIONATE+ABOUT+TECHNOLOGY;WELCOME!+:%29) <img align="right" alt="emoji" width="30px" src="https://user-images.githubusercontent.com/46427886/221482566-facf410a-61f1-49f8-b127-f7412ac7146b.gif">
 <br>
 
@@ -32,12 +43,12 @@ Learning: Flask
 ##
 
 <div align="center">
-  <img alt="Status do meu github" src="https://github-readme-stats.vercel.app/api?username=euyogi&show_icons=true&theme=onedark&bg_color=00000000&count_private=true&border_radius=7">
-  <img alt="Línguas mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euyogi&layout=compact&theme=onedark&bg_color=00000000&border_radius=7&card_width=500px">
+  <img width="51%" alt="My github's status" src="https://github-readme-stats.vercel.app/api?username=euyogi&show_icons=true&theme=onedark&bg_color=00000000&count_private=true&border_radius=11&include_all_commits=true&border_color=dcdcdc">
+  <img width="46%" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euyogi&layout=compact&theme=onedark&bg_color=00000000&border_radius=7">
 </div>
 
 <div align="center">
-  <img alt="Gráfico das minhas contribuições" width="99%" src="https://github-readme-activity-graph.cyclic.app/graph?username=euyogi&radius=10">
+  <img alt="My contributions graph" width="99%" src="https://github-readme-activity-graph.cyclic.app/graph?username=euyogi&bg_color=00000000&color=b03955&line=b03955&title_color=e4bf7a">
 </div>
 
 ##
