@@ -13,7 +13,7 @@ Aprendendo: Flask
 "Ars longa, Vita brevis"
 ```
 
-## EN // Bom dia, meu nome é Yogi Nam. <img align="center" alt="emoji" width="30px" src="https://user-images.githubusercontent.com/46427886/221482566-facf410a-61f1-49f8-b127-f7412ac7146b.gif">
+## EN // Morning, my name's Yogi Nam. <img align="center" alt="emoji" width="30px" src="https://user-images.githubusercontent.com/46427886/221482566-facf410a-61f1-49f8-b127-f7412ac7146b.gif">
 
 ```javascript
 I'm a brazilian student, 18 years old and starting in the programming world.
