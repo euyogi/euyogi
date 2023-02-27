@@ -1,6 +1,9 @@
 <!--![IMG_20230108_164109](https://user-images.githubusercontent.com/46427886/211215582-db43cff9-2f82-4f1c-8d58-18874cc93ab8.png)-->
 
-## PT // Bom dia, meu nome é Yogi Nam. <img align="center" alt="emoji" width="30px" src="https://user-images.githubusercontent.com/46427886/221482566-facf410a-61f1-49f8-b127-f7412ac7146b.gif">
+![Cabeçalho](https://capsule-render.vercel.app/api?type=waving&color=b03955&height=120&section=header)
+
+## ![Saudação](https://readme-typing-svg.herokuapp.com/?color=b03955&size=35&center=true&vCenter=true&width=1000&lines=PT+//+BOM+DIA,+MEU+NOME+É+Yogi+Nam;APAIXONADO+POR+TECNOLOGIA;SEJA+BEM+VINDO!+:%29) <img align="right" alt="emoji" width="30px" src="https://user-images.githubusercontent.com/46427886/221482566-facf410a-61f1-49f8-b127-f7412ac7146b.gif">
+<br>
 
 ```javascript
 Sou um estudante brasileiro com 18 anos de idade iniciando neste mundo da programação. 
@@ -31,6 +34,10 @@ Learning: Flask
   <img width="46%" alt="Línguas mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euyogi&layout=compact&theme=transparent">
 </div>
 
+<div align="center">
+  <img alt="Gráfico das minhas contribuições" width="97%" src="https://github-readme-activity-graph.cyclic.app/graph?username=euyogi&theme=transparent">
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -50,3 +57,5 @@ Learning: Flask
 </div>
 
 ![Jogo da cobrinha](https://github.com/euyogi/euyogi/blob/output/github-contribution-grid-snake.svg)
+
+![Rodapé](https://capsule-render.vercel.app/api?type=waving&color=b03955&height=120&section=footer)
