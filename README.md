@@ -75,6 +75,6 @@ Learning: Flask
   <!--<a href="linkdomeulinkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>-->
 </div>
 
-![Snake game](https://github.com/euyogi/euyogi/blob/output/github-contribution-grid-snake.svg)
+<img alt="Snake game" width="100%" src="https://github.com/euyogi/euyogi/blob/output/github-contribution-grid-snake.svg">
 
 <img alt="Footer" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=b03955&height=120&section=footer">
