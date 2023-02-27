@@ -1,8 +1,6 @@
 <!--![IMG_20230108_164109](https://user-images.githubusercontent.com/46427886/211215582-db43cff9-2f82-4f1c-8d58-18874cc93ab8.png)-->
 
-
-
-## Bom dia, meu nome é Yogi Nam.
+## Bom dia, meu nome é Yogi Nam. <img align="center" alt="emoji" width="30px" src="https://user-images.githubusercontent.com/46427886/221482566-facf410a-61f1-49f8-b127-f7412ac7146b.gif">
 
 ```javascript
 Sou um estudante brasileiro com 18 anos de idade iniciando neste mundo da programação. 
