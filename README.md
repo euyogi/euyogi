@@ -9,6 +9,8 @@ Sou um estudante brasileiro com 18 anos de idade iniciando neste mundo da progra
 
 Estou fazendo alguns cursos e conhecendo sobre diversas linguagens para encontrar minha área.
 Pretendo entrar na UnB - Universidade de Brasília em Agosto de 2023 para Engenharia de Software.
+
+Aprendendo: Flask
 ```
 
 <div>
