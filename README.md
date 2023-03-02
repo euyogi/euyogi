@@ -1,8 +1,6 @@
 <!-- INGLÊS -->
-
-<a href="#">
-  <img alt="Header" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=b03955&height=120&section=header">
-</a>
+<div style="pointer-events: none;">
+<img alt="Header" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=b03955&height=120&section=header">
 
 ## ![Greetings](https://readme-typing-svg.herokuapp.com/?color=b03955&size=35&center=true&vCenter=true&width=1000&lines=MORNING,+MY+NAME+IS+Yogi+Nam;PASSIONATE+ABOUT+TECHNOLOGY;WELCOME!+:%29) <img align="right" alt="emoji" width="30px" src="https://user-images.githubusercontent.com/46427886/221482566-facf410a-61f1-49f8-b127-f7412ac7146b.gif">
 <br>
@@ -56,32 +54,4 @@ Learning: Flask and C++
 </picture>
 
 <img alt="Footer" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=b03955&height=120&section=footer">
-
-<!-- PORTUGUÊS -->
-
-<!--
-## ![Saudação](https://readme-typing-svg.herokuapp.com/?color=b03955&size=35&center=true&vCenter=true&width=1000&lines=PT+//+BOM+DIA,+MEU+NOME+É+Yogi+Nam;APAIXONADO+POR+TECNOLOGIA;SEJA+BEM+VINDO!+:%29) <img align="right" alt="emoji" width="30px" src="https://user-images.githubusercontent.com/46427886/221482566-facf410a-61f1-49f8-b127-f7412ac7146b.gif">
-<br>
-
-```javascript
-Sou um estudante brasileiro com 18 anos de idade iniciando neste mundo da programação. 
-
-Estou fazendo alguns cursos e conhecendo sobre diversas linguagens para encontrar minha área.
-Pretendo entrar na UnB - Universidade de Brasília em Agosto de 2023 para Engenharia de Software.
-
-Aprendendo: Flask
-
-"Ars longa, Vita brevis"
-```
-
-##
-
-<div align="center">
-  <img width="51%" alt="Status do meu github" src="https://github-readme-stats.vercel.app/api?username=euyogi&show_icons=true&theme=onedark&bg_color=00000000&count_private=true&border_radius=11&include_all_commits=true&border_color=dcdcdc&locale=pt-BR&text_color=b03955">
-  <img width="46%" alt="Línguas mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euyogi&layout=compact&theme=onedark&bg_color=00000000&border_radius=7&locale=pt-BR&text_color=b03955">
 </div>
-
-<div align="center">
-  <img alt="Gráfico das minhas contribuições" width="98%" src="https://github-readme-activity-graph.cyclic.app/graph?username=euyogi&custom_title=Grafico%20das%20Contribuicoes%20do%20yogi&bg_color=00000000&color=b03955&line=b03955&title_color=e4bf7a&radius=13">
-</div>
--->
