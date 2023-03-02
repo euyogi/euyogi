@@ -2,6 +2,8 @@
 
 ## ![Greeting](https://readme-typing-svg.herokuapp.com/?color=b03955&size=35&center=true&vCenter=true&width=1000&lines=MORNING,+MY+NAME+IS+Yogi+Nam;PASSIONATE+ABOUT+TECHNOLOGY;WELCOME!+:%29) <img align="right" alt="emoji" width=30px src="https://user-images.githubusercontent.com/46427886/221482566-facf410a-61f1-49f8-b127-f7412ac7146b.gif">
 
+<br>
+
 ```python
 I'm a brazilian student, 18 years old and starting in the programming world.
 
@@ -58,7 +60,7 @@ Learning: Flask and C++
 
   <a href="https://instagram.com/eu.yogi" target="_blank"><img title="Go to Instagram" alt="Instagram: @eu.yogi" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href = "mailto:yogiqhz@gmail.com"><img title="Send Mail" alt="Email: yogiqhz@gmail.com" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <!--<a href="linkdomeulinkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>-->
+  <!--<a href="linkdomeulinkedin" target="_blank"><img title="Go to LinkedIn" alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>-->
 
 </div>
 
