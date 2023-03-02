@@ -1,6 +1,7 @@
 <!-- INGLÊS -->
 
 <a href="">
+<div>
   
 <img alt="Header" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=b03955&height=120&section=header" />
 
@@ -56,5 +57,6 @@ Learning: Flask and C++
 </picture>
 
 <img alt="Footer" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=b03955&height=120&section=footer" />
-  
+
+</div>
 </a>
