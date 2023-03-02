@@ -11,7 +11,7 @@ I'm a brazilian student, 18 years old and starting in the programming world.
 I'm completing some courses and learning about some of the many languages to find my area.
 Planning to go to UnB - Brazilia's University in August 2023 to Software Engineering.
 
-Learning: Flask
+Learning: Flask and C++
 
 "Ars longa, Vita brevis"
 ```
