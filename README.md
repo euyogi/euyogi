@@ -1,5 +1,5 @@
 <!-- INGLÊS -->
-<a href="#">
+<a href="">
 <img alt="Header" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=b03955&height=120&section=header">
 
 ## ![Greetings](https://readme-typing-svg.herokuapp.com/?color=b03955&size=35&center=true&vCenter=true&width=1000&lines=MORNING,+MY+NAME+IS+Yogi+Nam;PASSIONATE+ABOUT+TECHNOLOGY;WELCOME!+:%29) <img align="right" alt="emoji" width="30px" src="https://user-images.githubusercontent.com/46427886/221482566-facf410a-61f1-49f8-b127-f7412ac7146b.gif">
