@@ -46,7 +46,7 @@ Learning: Flask and C++
   <a href = "mailto:yogiqhz@gmail.com"><img title="Send Mail" alt="Email: yogiqhz@gmail.com" src="https://user-images.githubusercontent.com/46427886/222606897-f605060c-e9b9-469f-9d77-687735718630.png"></a>
   <a href = "https://www.beecrowd.com.br/judge/pt/profile/801164"><img title="Go to Beecrowd" alt="Beecrowd Profile: euyogi" src="https://user-images.githubusercontent.com/46427886/222607000-40a8089c-38db-4db6-8a15-5bdacc9db61c.png"></a>
   <a href = "https://codeforces.com/profile/euyogi"><img title="Go to Codeforces" alt="Codeforce Profile: euyogi" src="https://user-images.githubusercontent.com/46427886/222607357-10066cd1-8a9a-40cd-9318-49a03f22e857.png"></a>
-  <a href="www.linkedin.com/in/euyogi" ><img title="Go to LinkedIn" alt="LinkedIn" src="https://user-images.githubusercontent.com/46427886/222606955-d1100a1b-5bae-4784-8af9-6a2855b1bdb0.png"></a>
+  <a href="https://www.linkedin.com/in/euyogi" ><img title="Go to LinkedIn" alt="LinkedIn" src="https://user-images.githubusercontent.com/46427886/222606955-d1100a1b-5bae-4784-8af9-6a2855b1bdb0.png"></a>
 </div>
 
 <picture>
