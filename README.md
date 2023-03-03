@@ -42,11 +42,11 @@ Learning: Flask and C++
   ##
 
 <div> 
-  <a href="https://instagram.com/eu.yogi" ><img title="Go to Instagram" alt="Instagram Profile: @eu.yogi" src="https://user-images.githubusercontent.com/46427886/222606821-0119745f-c848-4a20-8258-02a43cbddae2.png"></a>
-  <a href = "mailto:yogiqhz@gmail.com"><img title="Send Mail" alt="Email: yogiqhz@gmail.com" src="https://user-images.githubusercontent.com/46427886/222606897-f605060c-e9b9-469f-9d77-687735718630.png"></a>
-  <a href = "https://www.beecrowd.com.br/judge/pt/profile/801164"><img title="Go to Beecrowd" alt="Beecrowd Profile: euyogi" src="https://user-images.githubusercontent.com/46427886/222607000-40a8089c-38db-4db6-8a15-5bdacc9db61c.png"></a>
-  <a href = "https://codeforces.com/profile/euyogi"><img title="Go to Codeforces" alt="Codeforce Profile: euyogi" src="https://user-images.githubusercontent.com/46427886/222607357-10066cd1-8a9a-40cd-9318-49a03f22e857.png"></a>
-  <a href="https://www.linkedin.com/in/yoginam" ><img title="Go to LinkedIn" alt="LinkedIn: Yogi Nam" src="https://user-images.githubusercontent.com/46427886/222606955-d1100a1b-5bae-4784-8af9-6a2855b1bdb0.png"></a>
+  <a ref="https://instagram.com/eu.yogi" ><img width=20% title="Go to Instagram" alt="Instagram Profile: @eu.yogi" src="https://user-images.githubusercontent.com/46427886/222729492-29d0d323-2436-47fe-a7f7-d9beccf91b46.png"></a>
+  <a href = "mailto:yogiqhz@gmail.com"><img width=20% title="Send Mail" alt="Email: yogiqhz@gmail.com" src="https://user-images.githubusercontent.com/46427886/222729483-3dedd14e-0274-4e1c-b6fb-98287858f6ac.png"></a>
+  <a href = "https://www.beecrowd.com.br/judge/pt/profile/801164"><img width=20% title="Go to Beecrowd" alt="Beecrowd Profile: euyogi" src="https://user-images.githubusercontent.com/46427886/222729477-750578d5-8c16-411b-a8dd-93b8e8e1bff0.png"></a>
+  <a href = "https://codeforces.com/profile/euyogi"><img width=20% title="Go to Codeforces" alt="Codeforce Profile: euyogi" src="https://user-images.githubusercontent.com/46427886/222729489-126c5336-86d9-4a30-96a0-b1f35306642c.png"></a>
+  <a href="https://www.linkedin.com/in/yoginam" ><img width=20% title="Go to LinkedIn" alt="LinkedIn: Yogi Nam" src="https://user-images.githubusercontent.com/46427886/222729485-89f6c13b-b10c-41dc-8644-9e75e6a84a28.png"></a>
 </div>
 
 <picture>
