@@ -42,7 +42,7 @@ Learning: Flask and C++
   ##
 
 <div> 
-  <a ref="https://instagram.com/eu.yogi" ><img height=30px title="Go to Instagram" alt="Instagram Profile: @eu.yogi" src="https://user-images.githubusercontent.com/46427886/222736610-939fd917-214c-47ec-90c9-883bb9379e7c.png"></a>
+  <a href="https://instagram.com/eu.yogi" ><img height=30px title="Go to Instagram" alt="Instagram Profile: @eu.yogi" src="https://user-images.githubusercontent.com/46427886/222736610-939fd917-214c-47ec-90c9-883bb9379e7c.png"></a>
   <a href = "mailto:yogiqhz@gmail.com"><img height=30px title="Send Mail" alt="Email: yogiqhz@gmail.com" src="https://user-images.githubusercontent.com/46427886/222736606-47f4b597-88f9-4306-ae4b-bcb5ff0f224a.png"></a>
   <a href = "https://www.beecrowd.com.br/judge/pt/profile/801164"><img height=30px title="Go to Beecrowd" alt="Beecrowd Profile: euyogi" src="https://user-images.githubusercontent.com/46427886/222736605-1d68b101-ef1c-4387-bfee-713c063dbfd4.png"></a>
   <a href = "https://codeforces.com/profile/euyogi"><img height=30px title="Go to Codeforces" alt="Codeforce Profile: euyogi" src="https://user-images.githubusercontent.com/46427886/222736607-81561bf4-4aea-4649-9fc9-772e2082e8d2.png"></a>
