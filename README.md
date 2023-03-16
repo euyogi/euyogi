@@ -16,8 +16,8 @@ Learning: Flask and C++
 ##
 
 <div align="center">
-  <img width=55% alt="My github status" src="https://github-readme-stats.vercel.app/api?username=euyogi&show_icons=true&theme=onedark&bg_color=00000000&count_private=true&border_radius=11&include_all_commits=true&border_color=dcdcdc&text_color=b03955">
-  <img width=42% alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euyogi&layout=compact&theme=onedark&bg_color=00000000&border_radius=7&text_color=b03955">
+  <img width=59% alt="My github status" src="https://github-readme-stats.vercel.app/api?username=euyogi&show_icons=true&theme=onedark&bg_color=00000000&count_private=true&border_radius=11&include_all_commits=true&border_color=dcdcdc&text_color=b03955">
+  <img width=39% alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euyogi&layout=compact&theme=onedark&bg_color=00000000&border_radius=7&text_color=b03955&langs_count=8">
 </div>
 
 <div align="center">
