@@ -8,7 +8,7 @@
 I'm a brazilian student, 18 years old and starting in the programming world.
 I'm completing some courses and learning about some of the many languages to find my area.
 Planning to go to UnB - Brazilia's University in August 2023 to Software Engineering.
-Learning: Flask and C++
+Learning: C++
 
 "Ars longa, Vita brevis"
 ```
@@ -36,6 +36,7 @@ Learning: Flask and C++
   <img align="center" title="C" alt="C" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" title="SQLite" alt="SQLite" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
   <img align="center" title="Bootstrap" alt="Bootstrap" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" title="Flask" alt="Flask" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
   <img align="right" alt="Yogi-pic" width=15% src="https://user-images.githubusercontent.com/46427886/218377101-f832c1a3-6c48-4016-92d2-0d8b6a4fafd5.gif">
 </div>
 
