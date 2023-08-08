@@ -16,8 +16,8 @@ Learning: C++
 ##
 
 <div align="center">
-  <img width=59% alt="My github status" src="https://github-readme-stats.vercel.app/api?username=euyogi&show_icons=true&theme=onedark&bg_color=00000000&count_private=true&border_radius=11&include_all_commits=true&border_color=dcdcdc&text_color=b03955">
-  <img width=39% alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euyogi&layout=compact&theme=onedark&bg_color=00000000&border_radius=7&text_color=b03955&langs_count=8">
+  <img width=59% alt="My github status" src="https://github-readme-stats.vercel.app/api?username=euyogi&show_icons=true&theme=onedark&bg_color=00000000&count_private=true&border_radius=11&border_color=dcdcdc&text_color=b03955">
+  <img width=39% alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euyogi&layout=compact&langs_count=8&theme=onedark&bg_color=00000000&border_radius=7&text_color=b03955">
 </div>
 
 <div align="center">
@@ -34,6 +34,7 @@ Learning: C++
   <img align="center" title="JavaScript" alt="JavaScript" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" title="Python" alt="Python" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" title="C" alt="C" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" title="C++" alt="C++" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" title="SQLite" alt="SQLite" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
   <img align="center" title="Bootstrap" alt="Bootstrap" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" title="Flask" alt="Flask" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
