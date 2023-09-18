@@ -5,10 +5,8 @@
 <br>
 
 ```python
-I'm a brazilian student, 18 years old and starting in the programming world.
-I'm completing some courses and learning about some of the many languages to find my area.
-Planning to go to UnB - Brazilia's University in August 2023 to Software Engineering.
-Learning: C++
+I'm a brazilian student, starting in the programming world.
+Studying at University of Brasília - UnB (FGA)
 
 "Ars longa, Vita brevis"
 ```
