@@ -1,14 +1,14 @@
 <img alt="Header" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b03955&height=100&section=header">
 
-## ![Greeting](https://readme-typing-svg.herokuapp.com/?color=b03955&size=35&center=true&vCenter=true&width=1000&lines=MORNING,+MY+NAME+IS+Yogi+Nam;TODAY+SERVING+STROGONOFF;WELCOME!+:%29) <img align="right" alt="emoji" width=30px src="https://user-images.githubusercontent.com/46427886/221482566-facf410a-61f1-49f8-b127-f7412ac7146b.gif">
+## ![My name is Yogi Nam :)](https://readme-typing-svg.herokuapp.com/?color=b03955&size=35&center=true&vCenter=true&width=1000&lines=MORNING,+MY+NAME+IS+Yogi+Nam;SERVING+CROISSANTS+:%29) <img align="right" alt="emoji" width=30px src="https://user-images.githubusercontent.com/46427886/221482566-facf410a-61f1-49f8-b127-f7412ac7146b.gif">
 
 <br>
 
 ```python
-I'm a brazilian student, starting in the programming world.
-Studying at University of Brasília - UnB (FGA)
+TODO: rn feeling like doing competitive programming
+                     ✨c++✨
 
-"Ars longa, Vita brevis"
+print("Hello, world!") # between us.. that guy looks funny <<--
 ```
 
 ##
@@ -36,17 +36,17 @@ Studying at University of Brasília - UnB (FGA)
   <img align="center" title="SQLite" alt="SQLite" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
   <img align="center" title="Bootstrap" alt="Bootstrap" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" title="Flask" alt="Flask" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
-  <img align="right" alt="Yogi-pic" width=15% src="https://user-images.githubusercontent.com/46427886/218377101-f832c1a3-6c48-4016-92d2-0d8b6a4fafd5.gif">
+  <img align="right" alt="Profile picture" width=15% src="https://avatars.githubusercontent.com/u/46427886?v=4">
 </div>
 
   ##
 
 <div> 
-  <a href="https://instagram.com/eu.yogi" ><img height=30px title="Go to Instagram" alt="Instagram Profile: @eu.yogi" src="https://user-images.githubusercontent.com/46427886/222736610-939fd917-214c-47ec-90c9-883bb9379e7c.png"></a>
+  <a href="https://instagram.com/eu.yogi" ><img height=30px title="Go to Instagram" alt="Instagram profile: @eu.yogi" src="https://user-images.githubusercontent.com/46427886/222736610-939fd917-214c-47ec-90c9-883bb9379e7c.png"></a>
   <a href = "mailto:yogiqhz@gmail.com"><img height=30px title="Send Mail" alt="Email: yogiqhz@gmail.com" src="https://user-images.githubusercontent.com/46427886/222736606-47f4b597-88f9-4306-ae4b-bcb5ff0f224a.png"></a>
-  <a href = "https://www.beecrowd.com.br/judge/pt/profile/801164"><img height=30px title="Go to Beecrowd" alt="Beecrowd Profile: euyogi" src="https://user-images.githubusercontent.com/46427886/222736605-1d68b101-ef1c-4387-bfee-713c063dbfd4.png"></a>
-  <a href = "https://codeforces.com/profile/euyogi"><img height=30px title="Go to Codeforces" alt="Codeforce Profile: euyogi" src="https://user-images.githubusercontent.com/46427886/222736607-81561bf4-4aea-4649-9fc9-772e2082e8d2.png"></a>
-  <a href="https://www.linkedin.com/in/yoginam" ><img height=30 title="Go to LinkedIn" alt="LinkedIn: Yogi Nam" src="https://user-images.githubusercontent.com/46427886/222736596-173cf752-2ae8-492b-9198-8db5877feb2d.png"></a>
+  <a href = "https://www.beecrowd.com.br/judge/pt/profile/801164"><img height=30px title="Go to Beecrowd" alt="Beecrowd profile: euyogi" src="https://user-images.githubusercontent.com/46427886/222736605-1d68b101-ef1c-4387-bfee-713c063dbfd4.png"></a>
+  <a href = "https://codeforces.com/profile/euyogi"><img height=30px title="Go to Codeforces" alt="Codeforce profile: euyogi" src="https://user-images.githubusercontent.com/46427886/222736607-81561bf4-4aea-4649-9fc9-772e2082e8d2.png"></a>
+  <a href="https://www.linkedin.com/in/yoginam" ><img height=30 title="Go to LinkedIn" alt="LinkedIn profile: Yogi Nam" src="https://user-images.githubusercontent.com/46427886/222736596-173cf752-2ae8-492b-9198-8db5877feb2d.png"></a>
 </div>
 
 <picture>
