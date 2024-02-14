@@ -36,7 +36,7 @@ print("Hello, world!") # between us.. that guy looks funny <<--
   <img align="center" title="SQLite" alt="SQLite" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
   <img align="center" title="Bootstrap" alt="Bootstrap" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" title="Flask" alt="Flask" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
-  <img align="right" alt="Profile picture" width=15% src="https://avatars.githubusercontent.com/u/46427886?v=4">
+  <img align="right" alt="Frieren's picture" width=15% src="https://github.com/euyogi/euyogi/assets/46427886/29a1896c-ee80-45a4-a286-79d55e894356">
 </div>
 
   ##
