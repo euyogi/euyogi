@@ -27,11 +27,11 @@ print("Hello, world!") # between us.. that guy looks funny <<--
 <br>
 
 <div> 
-  <a href="https://instagram.com/eu.yogi" ><img height=35 title="Go to Instagram" alt="Instagram profile: @eu.yogi" src="https://user-images.githubusercontent.com/46427886/222736610-939fd917-214c-47ec-90c9-883bb9379e7c.png"></a>
-  <a href = "mailto:yogiqhz@gmail.com"><img height=35 title="Send Mail" alt="Email: yogiqhz@gmail.com" src="https://user-images.githubusercontent.com/46427886/222736606-47f4b597-88f9-4306-ae4b-bcb5ff0f224a.png"></a>
-  <a href = "https://www.beecrowd.com.br/judge/pt/profile/801164"><img height=35 title="Go to Beecrowd" alt="Beecrowd profile: euyogi" src="https://user-images.githubusercontent.com/46427886/222736605-1d68b101-ef1c-4387-bfee-713c063dbfd4.png"></a>
-  <a href = "https://codeforces.com/profile/euyogi"><img height=35 title="Go to Codeforces" alt="Codeforce profile: euyogi" src="https://user-images.githubusercontent.com/46427886/222736607-81561bf4-4aea-4649-9fc9-772e2082e8d2.png"></a>
-  <a href="https://www.linkedin.com/in/yoginam" ><img height=35 title="Go to LinkedIn" alt="LinkedIn profile: Yogi Nam" src="https://user-images.githubusercontent.com/46427886/222736596-173cf752-2ae8-492b-9198-8db5877feb2d.png"></a>
+  <a href="https://instagram.com/eu.yogi" ><img height=30 title="Go to Instagram" alt="Instagram profile: @eu.yogi" src="https://user-images.githubusercontent.com/46427886/222736610-939fd917-214c-47ec-90c9-883bb9379e7c.png"></a>
+  <a href = "mailto:yogiqhz@gmail.com"><img height=30 title="Send Mail" alt="Email: yogiqhz@gmail.com" src="https://user-images.githubusercontent.com/46427886/222736606-47f4b597-88f9-4306-ae4b-bcb5ff0f224a.png"></a>
+  <a href = "https://www.beecrowd.com.br/judge/pt/profile/801164"><img height=30 title="Go to Beecrowd" alt="Beecrowd profile: euyogi" src="https://user-images.githubusercontent.com/46427886/222736605-1d68b101-ef1c-4387-bfee-713c063dbfd4.png"></a>
+  <a href = "https://codeforces.com/profile/euyogi"><img height=30 title="Go to Codeforces" alt="Codeforce profile: euyogi" src="https://user-images.githubusercontent.com/46427886/222736607-81561bf4-4aea-4649-9fc9-772e2082e8d2.png"></a>
+  <a href="https://www.linkedin.com/in/yoginam" ><img height=30 title="Go to LinkedIn" alt="LinkedIn profile: Yogi Nam" src="https://user-images.githubusercontent.com/46427886/222736596-173cf752-2ae8-492b-9198-8db5877feb2d.png"></a>
 </div>
 
 <picture>
