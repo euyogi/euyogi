@@ -14,12 +14,8 @@ print("Hello, world!") # between us.. that guy looks funny <<--
 ##
 
 <div align="center">
-  <img width=59% alt="My github status" src="https://github-readme-stats.vercel.app/api?username=euyogi&show_icons=true&theme=onedark&bg_color=00000000&count_private=true&border_radius=11&border_color=dcdcdc&text_color=b03955">
-  <img width=39% alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euyogi&layout=compact&langs_count=8&theme=onedark&bg_color=00000000&border_radius=7&text_color=b03955">
-</div>
-
-<div align="center">
-  <img alt="My contributions graph" width=98% src="https://github-readme-activity-graph.vercel.app/graph?username=euyogi&bg_color=00000000&color=b03955&line=b03955&title_color=e4bf7a&radius=13">
+  <img alt="My contributions graph" width=78% src="https://github-readme-activity-graph.vercel.app/graph?username=euyogi&bg_color=00000000&color=b03955&line=b03955&title_color=e4bf7a&radius=13">
+  <img width=20.7% alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euyogi&layout=pie&langs_count=8&theme=onedark&bg_color=00000000&border_radius=13&text_color=b03955">
 </div>
 
 ##
