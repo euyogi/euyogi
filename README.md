@@ -1,6 +1,6 @@
 <img alt="Header" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b03955&height=100&section=header">
 
-## ![My name is Yogi Nam :)](https://readme-typing-svg.herokuapp.com/?color=b03955&size=35&center=true&vCenter=true&width=1000&lines=MORNING,+MY+NAME+IS+Yogi+Nam;SERVING+CROISSANTS+:%29) <img align="right" alt="emoji" width=30px src="https://user-images.githubusercontent.com/46427886/221482566-facf410a-61f1-49f8-b127-f7412ac7146b.gif">
+## ![My name is Yogi Nam :)](https://readme-typing-svg.herokuapp.com/?color=b03955&size=25&center=true&vCenter=true&width=1000&lines=MORNING,+MY+NAME+IS+Yogi+Nam;SERVING+CROISSANTS+:%29) <img align="right" alt="emoji" width=30px src="https://user-images.githubusercontent.com/46427886/221482566-facf410a-61f1-49f8-b127-f7412ac7146b.gif">
 
 <br>
 
@@ -11,31 +11,20 @@ TODO: rn feeling like doing competitive programming
 print("Hello, world!") # between us.. that guy looks funny <<--
 ```
 
-##
-
-<div align="center">
-  <img alt="My contributions graph" width=78% src="https://github-readme-activity-graph.vercel.app/graph?username=euyogi&bg_color=00000000&color=b03955&line=b03955&title_color=e4bf7a&radius=13">
-  <img width=20.7% alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euyogi&layout=pie&langs_count=8&theme=onedark&bg_color=00000000&border_radius=13&text_color=b03955">
-</div>
-
-##
-
-<br>
-
 <div>
-  <img align="center" title="HTML" alt="HTML" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" title="CSS" alt="CSS" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" title="JavaScript" alt="JavaScript" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" title="Python" alt="Python" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" title="C" alt="C" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" title="C++" alt="C++" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" title="SQLite" alt="SQLite" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-  <img align="center" title="Bootstrap" alt="Bootstrap" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" title="Flask" alt="Flask" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+  <img title="HTML" alt="HTML" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img title="CSS" alt="CSS" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img title="JavaScript" alt="JavaScript" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img title="Python" alt="Python" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img title="C" alt="C" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img title="C++" alt="C++" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img title="SQLite" alt="SQLite" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
+  <img title="Bootstrap" alt="Bootstrap" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img title="Flask" alt="Flask" height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
   <img align="right" alt="Frieren's picture" width=15% src="https://github.com/euyogi/euyogi/assets/46427886/29a1896c-ee80-45a4-a286-79d55e894356">
 </div>
 
-  ##
+<br>
 
 <div> 
   <a href="https://instagram.com/eu.yogi" ><img height=30px title="Go to Instagram" alt="Instagram profile: @eu.yogi" src="https://user-images.githubusercontent.com/46427886/222736610-939fd917-214c-47ec-90c9-883bb9379e7c.png"></a>
@@ -48,7 +37,7 @@ print("Hello, world!") # between us.. that guy looks funny <<--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/euyogi/euyogi/blob/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/euyogi/euyogi/blob/output/github-contribution-grid-snake.svg">
-  <img alt="Snake Game" width =100% src="https://github.com/euyogi/euyogi/blob/output/github-contribution-grid-snake.svg">
+  <img alt="Snake Game" width=80%>
 </picture>
 
 <img alt="Footer" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b03955&height=100&section=footer">
