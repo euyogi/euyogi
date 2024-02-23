@@ -25,7 +25,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg?color_snake=red
-            dist/github-snake-dark.svg?palette=github-dark?color_snake=red
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=red
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
