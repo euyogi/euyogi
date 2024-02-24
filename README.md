@@ -20,7 +20,7 @@ print("Hello, world!") # between us.. that guy looks funny <<--
   <img title="C++" alt="C++" width=5%  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img title="SQLite" alt="SQLite" width=5%  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
   <img title="Bootstrap" alt="Bootstrap" width=5%  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img title="Flask" alt="Flask" width=5%  src="https://github.com/euyogi/euyogi/assets/46427886/04bdbc8f-d7bd-4639-ad49-4c629b8b5a82">
+  <img title="Flask" alt="Flask" width=5%  src="https://github.com/euyogi/euyogi/assets/46427886/65245af2-63ce-4a0c-9282-0aa00f243a182">
   <img align="right" alt="Frieren's picture" width=15% src="https://github.com/euyogi/euyogi/assets/46427886/29a1896c-ee80-45a4-a286-79d55e894356">
 </div>
 
