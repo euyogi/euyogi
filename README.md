@@ -5,10 +5,7 @@
 <br>
 
 ```python
-TODO: rn feeling like doing competitive programming
-                     ✨c++✨
-
-print("Hello, world!") # between us.. that guy looks funny <<--
+not trivial 😔
 ```
 
 <div>
@@ -21,16 +18,14 @@ print("Hello, world!") # between us.. that guy looks funny <<--
   <img title="SQLite" alt="SQLite" width=5%  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
   <img title="Bootstrap" alt="Bootstrap" width=5%  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img title="Flask" alt="Flask" width=5%  src="https://github.com/euyogi/euyogi/assets/46427886/65245af2-63ce-4a0c-9282-0aa00f243a182">
+  <img title="Lua" alt="Lua" width=5%  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
   <img align="right" alt="Frieren's picture" width=15% src="https://github.com/euyogi/euyogi/assets/46427886/29a1896c-ee80-45a4-a286-79d55e894356">
 </div>
 
 <br>
 
 <div> 
-  <a href="https://instagram.com/eu.yogi" ><img height=30 title="Go to Instagram" alt="Instagram profile: @eu.yogi" src="https://user-images.githubusercontent.com/46427886/222736610-939fd917-214c-47ec-90c9-883bb9379e7c.png"></a>
   <a href = "mailto:yogiqhz@gmail.com"><img height=30 title="Send Mail" alt="Email: yogiqhz@gmail.com" src="https://user-images.githubusercontent.com/46427886/222736606-47f4b597-88f9-4306-ae4b-bcb5ff0f224a.png"></a>
-  <a href = "https://www.beecrowd.com.br/judge/pt/profile/801164"><img height=30 title="Go to Beecrowd" alt="Beecrowd profile: euyogi" src="https://user-images.githubusercontent.com/46427886/222736605-1d68b101-ef1c-4387-bfee-713c063dbfd4.png"></a>
-  <a href = "https://codeforces.com/profile/euyogi"><img height=30 title="Go to Codeforces" alt="Codeforce profile: euyogi" src="https://user-images.githubusercontent.com/46427886/222736607-81561bf4-4aea-4649-9fc9-772e2082e8d2.png"></a>
   <a href="https://www.linkedin.com/in/yoginam" ><img height=30 title="Go to LinkedIn" alt="LinkedIn profile: Yogi Nam" src="https://user-images.githubusercontent.com/46427886/222736596-173cf752-2ae8-492b-9198-8db5877feb2d.png"></a>
 </div>
 
